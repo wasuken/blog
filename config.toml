@@ -33,4 +33,3 @@ weight = 2
 [[menu.feed]]
 name = "Subscribe"
 url = "/index.xml"
-
