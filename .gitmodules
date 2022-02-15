@@ -1,3 +1,6 @@
 [submodule "themes/classic"]
 	path = themes/classic
 	url = git://github.com/goodroot/hugo-classic.git
+[submodule "content/post/memo"]
+	path = content/post/memo
+	url = git@github.com:wasuken/memo.git
