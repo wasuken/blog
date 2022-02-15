@@ -4,3 +4,6 @@
 [submodule "content/post/memo"]
 	path = content/post/memo
 	url = git://github.com/wasuken/memo.git
+[submodule "content/post/tec_memo"]
+	path = content/post/tec_memo
+	url = git://github.com/wasuken/tec_memo.git
