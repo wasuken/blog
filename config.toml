@@ -1,7 +1,7 @@
 # baseURL = 'https://blog.londone.net'
 languageCode = 'ja'
 title = 'wasuken blog.'
-theme = 'classic'
+theme = 'hugo-theme-stack'
 
 [markup.goldmark.renderer]
 unsafe = true
